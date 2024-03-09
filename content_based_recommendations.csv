@@ -1,0 +1,20 @@
+Make_x,Model,Ex-Showroom_Price,Body_Type,Length,Fuel_Type,Displacement,Make_y,Avg_Maintenance,Avg_KM,Safety_Ratings,Nearby_Service_Centers,Reliability 
+Kia,Seltos,1414000,SUV,4315.0,Diesel,1493.0,Kia,Medium ,15.0,3.0,8.0,4.0
+Nissan,Kicks,1109000,SUV,4384.0,Diesel,1461.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Nissan,Kicks,1251000,SUV,4384.0,Diesel,1461.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Nissan,Kicks,1369000,SUV,4384.0,Diesel,1461.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Nissan,Kicks,1465000,SUV,4384.0,Diesel,1461.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Nissan,Kicks,1465000,SUV,4384.0,Diesel,1461.0,Nissan,Medium ,14.0,5.0,4.0,3.5
+Renault,Captur,1049999,SUV,4329.0,Diesel,1461.0,Renault,Medium ,13.5,5.0,6.0,3.0
+Renault,Captur,1299999,SUV,4329.0,Diesel,1461.0,Renault,Medium ,13.5,5.0,6.0,3.0
+Renault,Duster,1119990,SUV,4315.0,Diesel,1461.0,Renault,Low,,4.0,8.0,
+Renault,Duster,1209990,SUV,4315.0,Diesel,1461.0,Renault,Low,,4.0,8.0,
+Renault,Duster,1249990,SUV,4315.0,Diesel,1461.0,Renault,Low,,4.0,8.0,
+Renault,Duster,1249990,SUV,4315.0,Diesel,1461.0,Renault,Low,,4.0,8.0,
+Honda,Brv,1187900,SUV,4453.0,Diesel,1498.0,Honda,Medium ,,5.0,,
+Honda,Brv,1273900,SUV,4453.0,Diesel,1498.0,Honda,Medium ,,5.0,,
+Honda,Brv,1382900,SUV,4456.0,Diesel,1498.0,Honda,Medium ,,5.0,,
+Nissan,Terrano,1464900,SUV,4331.0,Diesel,1461.0,Nissan,Medium ,,4.0,,
+Nissan,Terrano,1235700,SUV,4331.0,Diesel,1461.0,Nissan,Medium ,,4.0,,
+Nissan,Terrano,1419900,SUV,4331.0,Diesel,1461.0,Nissan,Medium ,,4.0,,
+Nissan,Terrano,1235700,SUV,4331.0,Diesel,1461.0,Nissan,Medium ,,4.0,,
