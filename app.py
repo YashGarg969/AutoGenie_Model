@@ -60,6 +60,7 @@ def get_recommendations():
     # Return recommendations and the number of available cars as JSON response
     return jsonify({'recommendations': recommendations_json, 'num_available_cars': num_available_cars})
 
-
+'''
 if __name__ == '__main__':
     app.run(debug=True)
+'''
