@@ -55,10 +55,15 @@ def get_recommendations():
     recommendations, num_available_cars = contentfilter.get_recommendations(min_price,max_price,body_type,fuel_type,displacement_min,displacement_max,length_filter)
 
     # Convert recommendations DataFrame to JSON
-    recommendations_json = recommendations.to_json(orient='records')
+    #recommendations_json = recommendations.to_json(orient='records')
+
 
     # Return recommendations and the number of available cars as JSON response
-    return jsonify({'recommendations': recommendations_json, 'num_available_cars': num_available_cars})
+    return jsonify({'recommendations': recommendations, 'num_available_cars': num_available_cars})
+
+
+    # Return recommendations and the number of available cars as JSON response
+    #return jsonify({'recommendations': recommendations_json, 'num_available_cars': num_available_cars})
 
 '''
 if __name__ == '__main__':

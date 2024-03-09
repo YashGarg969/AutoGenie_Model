@@ -72,7 +72,13 @@ class contentfilter():
         # Extract and display the 'Make', 'Model', 'Ex-Showroom_Price', 'Body_Type', 'Length', 'Fuel_Type', and 'Displacement' columns
         recommended_cars = filtered_cars[['Make', 'Model', 'Ex-Showroom_Price', 'Body_Type', 'Length', 'Fuel_Type', 'Displacement']]
 
-        return recommended_cars, num_available_cars
+         # Convert the recommendations to a list of dictionaries
+        recommendations_list = recommended_cars.to_dict(orient='records')
+        
+        return recommendations_list, num_available_cars
+
+
+        #return recommended_cars, num_available_cars
 
 
     def get_collabRecommendations():
